@@ -6,9 +6,11 @@
       "use": "@vercel/next"
     }
   ],
+  env
   git add vercel.json
 git commit -m "Remove env from vercel.json"
 git push   
   }
 
 }
+
